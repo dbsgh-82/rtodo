@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.magang1 {
+  @apply text-9xl bg-pink-400 ml-20
+}
+
