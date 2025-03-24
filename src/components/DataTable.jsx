@@ -1,7 +1,7 @@
 export default function DataTable(
   {
-      headers
-    , items = [],
+    headers
+  , items = [],
   }) {
 
   /* 본문과 매핑할 헤더 키 */
