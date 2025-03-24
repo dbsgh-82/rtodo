@@ -3,8 +3,8 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <hr className='mt-10' />
-      푸터 입니다.
+        <hr className='mt-10' />
+        푸터 입니다.
     </footer>
   );
 };
